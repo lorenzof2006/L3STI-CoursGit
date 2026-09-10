@@ -1,4 +1,4 @@
-
+# coucou
 def calculer_mes_impots(mon_revenu):
     if mon_revenu < 11498:
         return 0
